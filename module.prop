@@ -1,0 +1,6 @@
+id=tzroller
+name=TimeZone Roller
+version=v1.10
+versionCode=110
+author=Sina-Ghaderi
+description=Downloads and update timezone data for android
