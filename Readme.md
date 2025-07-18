@@ -13,7 +13,7 @@
 
 - Rooted Android device with [Magisk](https://topjohnwu.github.io/Magisk/) installed
 - Internet connection  
-  **Note for users in Iran:** Accessing the IANA tzdata server requires a VPN.
+**Note for users in Iran 🇮🇷:** Accessing the IANA tzdata server requires a **VPN**.
 
 ## Installation
 
